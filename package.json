@@ -1,6 +1,6 @@
 {
   "name": "aws-s3-browser",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "aws s3 client for the browser",
   "main": "index.js",
   "scripts": {
